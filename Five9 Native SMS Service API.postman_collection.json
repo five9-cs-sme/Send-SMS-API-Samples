@@ -7,7 +7,7 @@
 	},
 	"item": [
 		{
-			"name": "Messaging Opt-In\\Outxx",
+			"name": "Messaging Opt-In\\Out",
 			"item": [
 				{
 					"name": "v1/domains/{domain Id}",
